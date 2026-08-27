@@ -1,0 +1,6 @@
+{
+  "name": "Termux Bridge APK Server & API Suite",
+  "description": "Android HTTP REST Bridge APK generator and API suite for Termux, Python scripts, and web automation with camera, audio, sensors, wifi, files, and system controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
